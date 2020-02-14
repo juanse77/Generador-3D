@@ -2,7 +2,7 @@
 
 <p>El proyecto consiste en la elaboración de un programa en Processing que genere figuras de revolución a partir de una silueta construida por pulsaciones de ratón en el margen derecho de un eje de rotación.</p>
 
-<p>Para crear la silueta hay que ir uniendo puntos que serán definidos por clicks izquierdos de ratón al mismo tiempo que se mantiene polsada la tecla control. Al liberar la tecla control se generará la imagen completa. Los clicks que se den en el margen izquierdo al eje de rotación serán ignorados y no tendrán ningún efecto en la ejecución del programa.</p>
+<p>Para crear la silueta hay que ir uniendo puntos que serán definidos por clicks izquierdos de ratón al mismo tiempo que se mantiene pulsada la tecla control. Al liberar la tecla control se generará la imagen completa. Los clicks que se den en el margen izquierdo al eje de rotación serán ignorados y no tendrán ningún efecto en la ejecución del programa.</p>
 
 <p>El programa se presenta inicialmente como un menú explicativo de uso, en el que se declaran las teclas de comandos:</p>
 
